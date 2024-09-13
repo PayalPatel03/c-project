@@ -47,6 +47,6 @@ main(){
   					}
   					else
   					{
-    					printf("Please try again next time:\n");
+    					printf("\nPlease try again next time:");
   					}
 }
