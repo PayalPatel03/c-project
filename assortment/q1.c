@@ -1,4 +1,4 @@
-//negative elements from array
+//negative elements from array from the given
 #include<stdio.h>
 main(){
 	int i,len;
